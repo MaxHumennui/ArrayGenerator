@@ -1,0 +1,11 @@
+C:\Users\Vi\source\repos\TSPP\bin\Debug\TSPP.exe.config
+C:\Users\Vi\source\repos\TSPP\bin\Debug\TSPP.exe
+C:\Users\Vi\source\repos\TSPP\bin\Debug\TSPP.pdb
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.Form1.resources
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.Properties.Resources.resources
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.csproj.GenerateResource.cache
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.exe
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.pdb
+C:\Users\Vi\source\repos\TSPP\obj\Debug\TSPP.Form2.resources
